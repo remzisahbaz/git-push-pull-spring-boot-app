@@ -1,4 +1,4 @@
-package com.remzisahbaz.gitpushpullspringbootapp;
+package com.remzisahbaz.gitpushpullspringbootapp.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
